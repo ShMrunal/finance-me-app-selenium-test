@@ -1,6 +1,6 @@
 package com.mentorbabaa.selenium.finance_me_app;
-import static org.junit.Assert.assertTrue;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.Assert.assertTrue;
+import org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
